@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-        <meta property="og:image" content="blob/master/meta_github.JPG"/>
+        <meta property="og:image" content="https://raw.githubusercontent.com/eugenfink/zwanglos.wedding/master/meta_github.JPG"/>
         <title>SAVE THE DATE</title>
         <style type="text/css"> html{ margin: 0; height: 100%; overflow: hidden; } iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; } </style> 
   </head> 
